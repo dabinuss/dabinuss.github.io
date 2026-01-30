@@ -1,0 +1,11 @@
+remote_theme: pages-themes/minimal@v0.2.0
+
+title: Dabinuss
+description: Meine GitHub Pages
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+webmaster_verifications:
+  google: _Hgx4DSPsvfw-203WWT4PQz8-r9LPF8VPw3a-XyHyf0
